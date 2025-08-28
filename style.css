@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background: #f0f8ff;
+  color: #333;
+}
+
+h1 {
+  color: #00509e;
+}
+
+#info p {
+  margin: 0.5rem 0;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
